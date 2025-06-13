@@ -1,0 +1,90 @@
+
+#v1
+{
+    background-color: #ca4f66;
+    height: 200px;
+    width: auto;
+ 
+}
+
+#v2
+{
+    background-color: #75549d;
+    height: 250px;
+    width: 500px;
+    float: left;   
+  
+}
+#v3
+{
+    background-color: #790707;
+    height: 250px;
+    width: 500px;
+    float: left;
+    
+}
+#v4
+{
+    background-color: #76911d;
+    height: 250px;
+    width: 504px;
+    float: right;
+  
+}
+#v5
+{
+    background-color: #46a4ba;
+    height: 520px;
+    width: auto;   
+  
+   
+}
+ 
+.v6
+{
+    background-image: url(mumbai.jpg);
+    height: 520px;
+    width: 300px;
+    float: right;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.S1
+{
+    background-image:url(nashik.jpg);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 40px;
+ }
+
+ .S2
+{
+    background-image:url(mumbai.jpg);
+    height: 600px;
+    width: 600px;
+    background-repeat: no-repeat;
+    float: right;
+    margin: 40px;
+ }

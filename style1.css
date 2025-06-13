@@ -1,0 +1,44 @@
+#s1
+{
+    background-color: rgb(174, 65, 74);
+    height: 300px;
+    width: 400px;
+    float: left;
+    margin: 50px;
+}
+
+#s2
+{
+    background-color: rgb(110, 203, 127);
+    height: 300px;
+    width: 900px;
+    float: right;
+    margin: 50px;
+}
+
+#s3
+{
+    background-color: rgb(124, 15, 93);
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin: 50px;
+}
+
+#s4
+{
+    background-color: rgb(205, 219, 149);
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin: 50px;
+}
+
+#s5
+{
+    background-color: rgb(147, 109, 201);
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin: 50px;
+}
